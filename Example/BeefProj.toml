@@ -1,0 +1,7 @@
+FileVersion = 1
+Dependencies = {corlib = "*", "Steak.DependencyInjection" = "*"}
+
+[Project]
+Name = "Example"
+StartupObject = "Testing.Program"
+DefaultNamespace = "Testing"
