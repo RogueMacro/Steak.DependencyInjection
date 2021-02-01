@@ -1,6 +1,6 @@
 # Steak.DependencyInjection
 
-Simple dependency injection library for Beeflang
+Simple dependency injection library for BeefLang
 
 ## Example
 
